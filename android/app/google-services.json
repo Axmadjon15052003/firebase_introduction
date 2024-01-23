@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627771756883",
+    "project_id": "fribaseintroduction",
+    "storage_bucket": "fribaseintroduction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627771756883:android:e869a84f17d9342e0e91a6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_introduction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB30SD4xndjjZS7-GlblXAg3P-qVQAIfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
